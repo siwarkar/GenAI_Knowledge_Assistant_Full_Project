@@ -209,29 +209,3 @@ Monitoring and evaluation metrics
 Swapnil Iwarkar
 Applied AI & Data Scientist
 LinkedIn: https://linkedin.com/in/swapnil-iwarkar66
-
-
----
-
-## 🧠 Why this README attracts recruiters (20+ yrs view)
-
-- Clear **business problem → solution → outcome**
-- Shows **real GenAI architecture**, not toy demos
-- Uses **enterprise language**
-- Easy to explain in interviews
-- Directly aligns with your resume bullet
-
----
-
-## 📌 Final Resume Line (Use This)
-> Built a production-ready GenAI Knowledge Assistant using RAG (LangChain, FAISS, OpenAI) with FastAPI and Streamlit UI, reducing document search time by **~60%**.
-
----
-
-### Next (optional but powerful):
-1️⃣ Add **citations** to UI  
-2️⃣ Add **Agentic AI tool-calling**  
-3️⃣ Dockerize for cloud deployment  
-4️⃣ Prepare **interview walkthrough script**
-
-Tell me what you want next — you now have a **top-tier GenAI portfolio project**.
